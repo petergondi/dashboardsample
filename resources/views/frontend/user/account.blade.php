@@ -27,6 +27,9 @@
                                     <a href="#password" aria-controls="password" role="tab" data-toggle="tab" class="tabs">{{ trans('navs.frontend.user.change_password') }}</a>
                                 </li>
                             @endif
+                            <li role="presentation" id="li-edit">
+                                <a href="#edit" aria-controls="edit" role="tab" data-toggle="tab" class="tabs">{{ trans('labels.frontend.user.profile.update_information') }}</a>
+                            </li>
                         </ul>
 
                         <div class="tab-content">

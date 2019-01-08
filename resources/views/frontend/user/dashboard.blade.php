@@ -40,7 +40,7 @@
 
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4>Sidebar Item</h4>
+                                    <h4>Roles and Permissions</h4>
                                 </div><!--panel-heading-->
 
                                 <div class="panel-body">
